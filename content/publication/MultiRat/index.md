@@ -26,7 +26,7 @@ links:
 projects:
 publication: ""
 publication_short:
-publication_types: ["1"]
+publication_types:
 - "3"
 publishDate: "2022-04-27T00:00:00Z"
 slides:
