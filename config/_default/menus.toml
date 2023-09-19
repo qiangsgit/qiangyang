@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Awards"
-  url = "#awards"
-  weight = 160
-  
-[[main]]
   name = "Skills"
   url = "#skills"
   weight = 20
@@ -48,6 +43,12 @@
 #  url = "#contact"
 #  weight = 170
 
+[[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 160
+  
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
