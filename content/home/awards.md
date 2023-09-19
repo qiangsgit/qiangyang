@@ -1,7 +1,16 @@
----
+<!-- ---
 layout: page
 title: Awards
----
+--- -->
++++
+# Awards widget.
+widget = "Awards"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
+
+title = "Awards"
+subtitle = ""
 
 ## Honors
 
@@ -17,3 +26,4 @@ title: Awards
 
 - March 2021 - Oct 2022：Technical Contributor of IEEE CS Global Student Challenge 2021
 - PC of AAAI, ISWC, CCL, NLPCC
++++
