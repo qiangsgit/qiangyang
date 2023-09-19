@@ -1,15 +1,7 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
-
-title = "Publications"
-subtitle = ""
-
+---
+layout: page
+title: Awards
+---
 
 ## Honors
 
@@ -25,4 +17,3 @@ subtitle = ""
 
 - March 2021 - Oct 2022：Technical Contributor of IEEE CS Global Student Challenge 2021
 - PC of AAAI, ISWC, CCL, NLPCC
-+++
