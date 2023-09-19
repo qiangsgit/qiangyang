@@ -1,50 +1,45 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: My research interests focus on data mining and interpretable graph learning.
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
+  - course: PhD Degree
+    institution: King Abdullah University of Science and Technology
+    year: January 2019 - Current
+  - course: Master Degree
+    institution: Soochow University
+    year: September 2014 - June 2017
+  - course: Bachelor Degree
+    institution: Pingdingshan University
+    year: September 2010 - July 2014
+email: "qiang.yang@kaust.edu.sa"
 interests:
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open science
-- Software
-name: Nikoloz Sirmpilatze
+- Machine Learning
+- Data Mining
+- Graph Representation Learning
+- Interpretable Leaning
+name: Qiang Yang
 organizations:
-- name: Sainsbury Wellcome Centre
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
+- name: Computational Bioscience Research Center (CBRC)
+  url: "https://cemse.kaust.edu.sa/cbrc"
+- name: King Abdullah University of Science and Technology (KAUST)
+  url: "https://www.kaust.edu.sa/en/"
+role: PHD Candidate
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=hDCsypAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/niksirbi
+  link: https://github.com/gitdevqiang/
 superuser: true
 user_groups:
 - Researchers
-- Visitors
 ---
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I'm Qiang Yang, a PhD candidate in King Abdullah University of Science and Technology (KAUST). I major in computer science in the labs of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group(SFB)] (https://cemse.kaust.edu.sa/sfb). I am supervised by Prof. [Xiangliang Zhang] (https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao] (https://www.kaust.edu.sa/en/study/faculty/xin-gao). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models instead of balck box.
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
+
 
