@@ -10,59 +10,12 @@ weight = 50  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 10 
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+## Conference
+1.  ***Qiang Yang***, Changsheng Ma, Qiannan Zhang, Xin Gao, Chuxu Zhang, and Xiangliang Zhang. 2023. Greedy Policy-based Perturbation for Counterfactual Learning on Heterogeneous Graphs. in KDD.
+2.  Qiannan Zhang, Shichao Pei, ***Qiang Yang***, Chuxu Zhang, Nitesh V Chawla, and Xiangliang Zhang. 2023. Cross-domain Few-shot Graph Classification with a Reinforced Task Coordinator. In AAAI.
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = "Conference"
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 1
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-    
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+## Journal
+1.  Xiangliang Zhang, ***Qiang Yang***, Somayah Albaradei, Xiaoting Lyu, Hind Alamro, Adil Salhi, Changsheng Ma, Manal Alshehri, Inji Ibrahim Jaber, Faroug Tifratene, Wei Wang, Takashi Gojobori, Carlos M Duarte, and Xin Gao. 2021. Rise and Fall of the Global Conversation and Shifting Sentiments during the COVID-19 Pandemic. Humanities and social sciences communications (2021) (Nature).
+2.  Lei Niu, Chenpeng Fu, ***Qiang Yang***, Zhixu Li, Zhigang Chen, Qingsheng Liu, and Kai Zheng. 2021. Open-world knowledge graph completion with multiple interaction attention. WWWJ(2021).
 +++
 
