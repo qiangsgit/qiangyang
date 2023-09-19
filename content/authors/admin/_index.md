@@ -19,6 +19,9 @@ interests:
 - Data Mining
 - Graph Representation Learning
 - Interpretable Leaning
+- Multimodal Learning
+- Sentiment Analysis
+- Sound Analysis
 name: Qiang Yang
 organizations:
 - name: Computational Bioscience Research Center (CBRC)
