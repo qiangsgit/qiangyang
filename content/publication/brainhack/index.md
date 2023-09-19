@@ -12,7 +12,7 @@ image:
 projects:
 publication: 'Neuron'
 publication_short: "Neuron"
-publication_types: 2
+publication_types: ["2"]
 - "2"
 publishDate: "2021-06-02T00:00:00Z"
 slides:
