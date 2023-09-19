@@ -38,7 +38,7 @@ user_groups:
 - Researchers
 ---
 
-I'm Qiang Yang, a PhD candidate in King Abdullah University of Science and Technology (KAUST). I major in computer science in the labs of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group(SFB)] (https://cemse.kaust.edu.sa/sfb). I am supervised by Prof. [Xiangliang Zhang] (https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao] (https://www.kaust.edu.sa/en/study/faculty/xin-gao). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models instead of balck box.
+I'm Qiang Yang, a PhD candidate in King Abdullah University of Science and Technology (KAUST). I major in computer science in the labs of [Machine Intelligence and kNowledge Engineering (MINE)](https://sites.nd.edu/xiangliang-zhang/) and [Structural and Functional Bioinformatics Group(SFB)](https://cemse.kaust.edu.sa/sfb). I am supervised by Prof. [Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/) and Prof. [Xin Gao](https://www.kaust.edu.sa/en/study/faculty/xin-gao). My dissertation focuses on interpretable learning on heterogeneous graphs, which reveals the predicted results by heterogeneous graph models instead of balck box.
 
 
 
