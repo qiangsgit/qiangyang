@@ -30,9 +30,6 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 role: Research Software Engineer
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/niksirbi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
